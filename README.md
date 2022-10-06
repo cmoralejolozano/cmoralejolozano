@@ -27,14 +27,22 @@
 - 📄 Know about my experiences [here, resume link](http://example/com)  
 
   
-
+---
 <br/>  
 
+
+
+> "If it weren't for my lawyer, I'd still be in prison.
+>  It went a lot faster with two people digging."
+>
+> r tufte::quote_footer('--- Joe Martin')
+
+
+<br/>  
 
 ## My Skill Set  
 
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> </p>
-
 
 <br/>  
 
@@ -54,5 +62,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cmoralejolozano&" alt="cmoralejolozano" /></p>
 
 <br/>  
-
-
