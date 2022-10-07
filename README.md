@@ -32,10 +32,10 @@
 
 
 
-> "If it weren't for my lawyer, I'd still be in prison.
->  It went a lot faster with two people digging."
+> “We’re here to put a dent in the universe. 
+>  Otherwise why else even be here?”
 >
-> r tufte::quote_footer('--- Joe Martin')
+> ***`Steve Jobs`***
 
 
 <br/>  
