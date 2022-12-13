@@ -9,22 +9,13 @@
 
 
 
-- 🌱 I’m currently studying Data Science on Upgrade Hub
+- 🌱 I’m currently learning HTML, CSS & JavaScript
   
 
-- 🔭 I’m interested in AI, Machine Learning
-  
-
-- 📝 I will write articles on [medium profile](http://example/com)  
+- 🔭 I’m interested in software development, data analytics and machine learning
   
 
 - 📫 You can reach me on [carlosmoralejolozano@gmail.com](http://example/com)  
-  
-
-- 👨‍💻 All of my projects are available at [carlosmoralejolozano.com](https://carlosmoralejolozano.com)  
-  
-
-- 📄 Know about my experiences [here, resume link](http://example/com)  
 
   
 ---
